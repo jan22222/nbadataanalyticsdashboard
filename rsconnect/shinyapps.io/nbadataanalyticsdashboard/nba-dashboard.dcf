@@ -5,6 +5,6 @@ account: nbadataanalyticsdashboard
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 17498660
-bundleId: 12115985
+bundleId: 12164225
 url: https://nbadataanalyticsdashboard.shinyapps.io/nba-dashboard/
 version: 1
